@@ -1,0 +1,39 @@
+﻿  GestionEmployer.c
+C:\Users\Lucas\Documents\Visual Studio 2022\GestionEmployer\GestionEmployer.c(58,11): warning C4013: 'time' non défini(e) ; extern retournant int pris par défaut
+C:\Users\Lucas\Documents\Visual Studio 2022\GestionEmployer\GestionEmployer.c(83,17): warning C4473: 'scanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+  C:\Users\Lucas\Documents\Visual Studio 2022\GestionEmployer\GestionEmployer.c(83,17):
+  les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+  C:\Users\Lucas\Documents\Visual Studio 2022\GestionEmployer\GestionEmployer.c(83,17):
+  l'argument variadique manquant 2 est demandé par la chaîne de format '%s'
+  C:\Users\Lucas\Documents\Visual Studio 2022\GestionEmployer\GestionEmployer.c(83,17):
+  cet argument est utilisé comme taille de mémoire tampon
+  
+C:\Users\Lucas\Documents\Visual Studio 2022\GestionEmployer\GestionEmployer.c(86,17): warning C4473: 'scanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+  C:\Users\Lucas\Documents\Visual Studio 2022\GestionEmployer\GestionEmployer.c(86,17):
+  les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+  C:\Users\Lucas\Documents\Visual Studio 2022\GestionEmployer\GestionEmployer.c(86,17):
+  l'argument variadique manquant 2 est demandé par la chaîne de format '%s'
+  C:\Users\Lucas\Documents\Visual Studio 2022\GestionEmployer\GestionEmployer.c(86,17):
+  cet argument est utilisé comme taille de mémoire tampon
+  
+C:\Users\Lucas\Documents\Visual Studio 2022\GestionEmployer\GestionEmployer.c(157,21): warning C4473: 'scanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+  C:\Users\Lucas\Documents\Visual Studio 2022\GestionEmployer\GestionEmployer.c(157,21):
+  les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+  C:\Users\Lucas\Documents\Visual Studio 2022\GestionEmployer\GestionEmployer.c(157,21):
+  l'argument variadique manquant 2 est demandé par la chaîne de format '%s'
+  C:\Users\Lucas\Documents\Visual Studio 2022\GestionEmployer\GestionEmployer.c(157,21):
+  cet argument est utilisé comme taille de mémoire tampon
+  
+C:\Users\Lucas\Documents\Visual Studio 2022\GestionEmployer\GestionEmployer.c(160,21): warning C4473: 'scanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+  C:\Users\Lucas\Documents\Visual Studio 2022\GestionEmployer\GestionEmployer.c(160,21):
+  les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+  C:\Users\Lucas\Documents\Visual Studio 2022\GestionEmployer\GestionEmployer.c(160,21):
+  l'argument variadique manquant 2 est demandé par la chaîne de format '%s'
+  C:\Users\Lucas\Documents\Visual Studio 2022\GestionEmployer\GestionEmployer.c(160,21):
+  cet argument est utilisé comme taille de mémoire tampon
+  
+  Génération de code en cours
+  Previous IPDB not found, fall back to full compilation.
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  GestionEmployer.vcxproj -> C:\Users\Lucas\Documents\Visual Studio 2022\GestionEmployer\x64\Release\GestionEmployer.exe
